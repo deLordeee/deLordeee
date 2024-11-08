@@ -5,9 +5,13 @@ I'm a 19-year-old developer with a background in computer science from KPI. My p
 ## 🚀 About Me
 
 💻 **Main Language:** Java  
+
 🌱 **Specialization:** Back-end Development with Java-based frameworks, particularly Spring, for creating robust and scalable applications.  
+
 🌐 **Front-end Familiarity:** HTML, CSS, and JavaScript – I have hands-on experience here, though my strength lies in the back end.  
+
 ⚙️ **Low-Level Programming:** Skilled in C and C++ for projects that demand more control over memory and performance.  
+
 👨‍💻 **Always Learning:** I'm constantly expanding my knowledge, building, and contributing to projects that make a meaningful impact.
 
 🤝 Let’s connect and create something amazing together!
